@@ -43,11 +43,11 @@ html {
 }
 
 .pageTitleWithDefaultLogo {
-  background-image: url(https://github.com/SalvaChiLlo/JellyfinTheme/blob/main/banner-light.png);
+  background-image: url(https://salvachillo.github.io/JellyfinTheme/banner-light.png);
 }
 
 .layout-tv .pageTitleWithDefaultLogo {
-  background-image: url(https://github.com/SalvaChiLlo/JellyfinTheme/blob/main/icon-transparent.png);
+  background-image: url(https://salvachillo.github.io/JellyfinTheme/icon-transparent.png);
 }
 
 .dialog,
@@ -58,8 +58,8 @@ html {
 }
 
 .backgroundContainer {
-  background: url(https://github.com/SalvaChiLlo/JellyfinTheme/blob/main/bg.jpg)
-    center top no-repeat #033361;
+  background: url(https://salvachillo.github.io/JellyfinTheme/bg.jpg) center top
+    no-repeat #033361;
   -webkit-background-size: cover;
   background-size: cover;
 }
