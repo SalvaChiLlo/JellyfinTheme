@@ -43,11 +43,11 @@ html {
 }
 
 .pageTitleWithDefaultLogo {
-  background-image: url(http://jellyfin.omv.local/web/assets/img/banner-light.png);
+  background-image: url(https://github.com/SalvaChiLlo/JellyfinTheme/blob/main/banner-light.png);
 }
 
 .layout-tv .pageTitleWithDefaultLogo {
-  background-image: url(http://jellyfin.omv.local/web/assets/img/icon-transparent.png);
+  background-image: url(https://github.com/SalvaChiLlo/JellyfinTheme/blob/main/icon-transparent.png);
 }
 
 .dialog,
@@ -58,7 +58,7 @@ html {
 }
 
 .backgroundContainer {
-  background: url(http://jellyfin.omv.local/web/themes/blueradiance/bg.jpg)
+  background: url(https://github.com/SalvaChiLlo/JellyfinTheme/blob/main/bg.jpg)
     center top no-repeat #033361;
   -webkit-background-size: cover;
   background-size: cover;
